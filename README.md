@@ -55,17 +55,19 @@ This system helps garage staff manage customers, vehicles, service requests, mec
 ## Project Structure
 
 ```text
-Garage_Management_System/
-â”œâ”€â”€ crud/
-â”œâ”€â”€ database/
-â”œâ”€â”€ models/
-â”œâ”€â”€ routers/
-â”œâ”€â”€ schemas/
-â”œâ”€â”€ screenshots/
-â”œâ”€â”€ main.py
-â”œâ”€â”€ .gitignore
-â”œâ”€â”€ .python-version
-â”œâ”€â”€ pyproject.toml
-â”œâ”€â”€ requirements.txt
-â”œâ”€â”€ uv.lock
-â””â”€â”€ README.md
+Car-and-Bike-Garage-Management-System/
+│
+├── crud/
+├── database/
+├── models/
+├── routers/
+├── schemas/
+├── screenshots/
+│
+├── main.py
+├── .gitignore
+├── .python-version
+├── pyproject.toml
+├── requirements.txt
+├── uv.lock
+└── README.md
